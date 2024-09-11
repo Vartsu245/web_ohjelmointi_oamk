@@ -1,0 +1,7 @@
+body, .container {
+    height: 100vh;
+}
+
+#remember-me + label {
+    color: #000;
+}
