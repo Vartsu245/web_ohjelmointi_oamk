@@ -1,0 +1,10 @@
+body {
+    background-color: darkgreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    padding: 100px 0;
+    margin-right: auto;
+}
