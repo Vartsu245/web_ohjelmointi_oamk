@@ -1,0 +1,15 @@
+
+h4 {
+   border: 3px;
+   border-style: solid;
+   padding: 10px;
+   background-color: limegreen;
+   border-radius: 10%;
+}
+
+table , tbody, tr, td{
+   width: 70px;
+   border-spacing: 20px; 
+   border-collapse: separate;
+}
+
